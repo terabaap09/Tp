@@ -62,7 +62,7 @@ const generateM3u = async (ud) => {
 
   for (let i = 0; i < chansList.length; i++) {
    m3uStr += '#EXTINF:-1 tvg-id="" tvg-name="NINJA TV" tvg-logo="https://ninjatv.lol/tata/copy.png" group-logo="https://ninjatv.lol/tata/copy.png" group-title="NINJA TV", NINJA TV\n';
-    m3uStr += 'https://video-iota-liard.vercel.app/ninja/ninja.m3u8\n';
+    m3uStr += 'https://video-iota-liard.vercel.app/neon/thank-you.m3u8\n';
 }
 
     console.log('all done!');
